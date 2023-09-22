@@ -16,35 +16,6 @@ Welcome to the Stock Analysis Project! This project focuses on the analysis and 
 - **Volume Analysis**: Analyze trading volumes to identify patterns and trends in market participation.
 - **Machine Learning Models**: Utilize time series analysis and build machine learning models to predict stock price movements or classify buy/sell signals based on historical price and volume data.
 
-## Project Structure
-
-The project is structured as follows:
-
-- `data/`: Contains historical stock data used for analysis.
-- `notebooks/`: Jupyter notebooks for data preprocessing, EDA, model development, and evaluation.
-- `src/`: Source code for fetching data, preprocessing, modeling, and evaluation scripts.
-- `results/`: Store model evaluation results, plots, and visualizations.
-
-## How to Use
-
-1. **Setup Environment**:
-   - Set up a Python environment and install the required packages listed in the `requirements.txt` file.
-
-2. **Data Collection**:
-   - Fetch historical stock data using APIs or relevant data sources. Save the data in the `data/` directory.
-
-3. **Data Preprocessing**:
-   - Preprocess the data, handle missing values, and generate features for analysis. Refer to the preprocessing notebooks/scripts in `notebooks/` and `src/`.
-
-4. **Exploratory Data Analysis**:
-   - Explore data patterns and insights using the provided EDA notebooks in `notebooks/`.
-
-5. **Modeling**:
-   - Train machine learning models using the preprocessed data. Refer to the modeling notebooks/scripts in `notebooks/` and `src/`.
-
-6. **Evaluation**:
-   - Evaluate model performance using appropriate metrics and visualizations. Store results and plots in the `results/` directory.
-
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
